@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d92f661a.chunk.css",
+    "main.js": "/static/js/main.4e5d4594.chunk.js",
+    "main.js.map": "/static/js/main.4e5d4594.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.691efcb0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.691efcb0.js.map",
+    "static/css/2.fb346933.chunk.css": "/static/css/2.fb346933.chunk.css",
+    "static/js/2.d72fb1d6.chunk.js": "/static/js/2.d72fb1d6.chunk.js",
+    "static/js/2.d72fb1d6.chunk.js.map": "/static/js/2.d72fb1d6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1a94fc35d4c83d7b8c9ec0938bd52600.js": "/precache-manifest.1a94fc35d4c83d7b8c9ec0938bd52600.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.d92f661a.chunk.css.map": "/static/css/main.d92f661a.chunk.css.map",
+    "static/js/2.d72fb1d6.chunk.js.LICENSE.txt": "/static/js/2.d72fb1d6.chunk.js.LICENSE.txt",
+    "static/media/Resume (2).pdf": "/static/media/Resume (2).fc9dc010.pdf",
+    "static/media/Screen Shot 2020-10-19 at 5.18.23 PM.png": "/static/media/Screen Shot 2020-10-19 at 5.18.23 PM.31d89501.png",
+    "static/media/Screen Shot 2020-10-19 at 7.26.10 PM.png": "/static/media/Screen Shot 2020-10-19 at 7.26.10 PM.7c9932f9.png",
+    "static/media/App.css": "/static/media/purty_wood.350ab537.png",
+    "static/media/sjsu_logo.png": "/static/media/sjsu_logo.d7303f35.png",
+    "static/media/ucsc_logo.png": "/static/media/ucsc_logo.75edce1c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.691efcb0.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.d72fb1d6.chunk.js",
+    "static/css/main.d92f661a.chunk.css",
+    "static/js/main.4e5d4594.chunk.js"
+  ]
+}
