@@ -5,7 +5,6 @@
     margin-left: -20px;
     width: 40px;
     height: 40px;
-
     /**
      * Dark Arrow Down
      */
@@ -15,13 +14,22 @@
 
 .svg_icons {
     transform: scale(3);
-    margin-top: 5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
 .svg_icons:hover {
     transform: scale(2.5);
     fill: white;
     cursor: pointer;
+}
+
+@media (max-width: 501px) {
+    .svg_icons {
+        transform: scale(1.5);
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 }
 
 .bounce {
