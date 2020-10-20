@@ -11,11 +11,11 @@
      */
     /* background-image: url('https://www.crescorent.com/wp-content/uploads/2019/06/down-arrow-dark-grey.png'); */
     background-size: contain;
-    margin-top: 5em;
 }
 
 .svg_icons {
     transform: scale(3);
+    margin-top: 15em;
 }
 
 .svg_icons:hover {
