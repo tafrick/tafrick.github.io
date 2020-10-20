@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tafrick.github.io/precache-manifest.e43dd99466482dc1a4e5fd4190ce0a74.js"
+  "/tafrick.github.io/precache-manifest.4da012655fe3a589886b2c795eae0f1d.js"
 );
 
 self.addEventListener('message', (event) => {
