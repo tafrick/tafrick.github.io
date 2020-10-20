@@ -28,7 +28,7 @@ code {
   list-style: none;
   display: flex;
   position: fixed;
-  z-index: 64;
+  z-index: 9004;
   margin: auto;
   place-content: center;
 }
@@ -65,7 +65,6 @@ code {
     padding-top: 1em;
     display: grid;
     place-content: baseline;
-    height: 100%;
   }
 
   #nav li {

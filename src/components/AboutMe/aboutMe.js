@@ -10,7 +10,7 @@ const aboutMe = (props) => {
                 <div>
                     <p>Hello!</p>
                 </div>
-                <p>I am a current graduate student in the MS in CS program and <u>San Jose State University</u> and am looking for internship opportunities. I just started my master's program this past fall and am expecting to graduate in 2022. Currently I am taking classes in Cyber Security and Computational Intelligence!</p>
+                <p>I am a current graduate student in the MS in CS program and <u>San Jose State University</u> looking for internship opportunities. I'm expecting to graduate in 2022. Currently I'm taking classes in Cyber Security and Computational Intelligence!</p>
                 <a href={Resume} target="_blank"><button>Get Resume</button></a>
             </div>
         </div>

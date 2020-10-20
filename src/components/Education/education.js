@@ -3,8 +3,8 @@ import React from 'react';
 import classes from './education.module.css';
 import School from './School/school';
 
-import SJSU from '../../assets/images/sjsu_logo.png';
-import UCSC from '../../assets/images/ucsc_logo.png';
+// import SJSU from '../../assets/images/sjsu_logo.png';
+// import UCSC from '../../assets/images/ucsc_logo.png';
 
 import Arrow from '../UI/Arrow/Arrow'
 
@@ -16,13 +16,13 @@ const education = (props) => {
                 <ul>
                     <li><School
                         schoolName="San Jose State University"
-                        source={SJSU}
+                        source="sjsu_logo"
                         alter="sjsu"
                         degree="M.S. in Computer Science"
                         gradDate="2020-2022" /></li>
                     <li><School
                         schoolName="University of California, Santa Cruz"
-                        source={UCSC}
+                        source="ucsc_logo"
                         alter="ucsc"
                         degree="B.S. in Computer Science"
                         gradDate="2015-2019" /></li>
