@@ -2,6 +2,7 @@
     background: inherit;
     /* padding: 4em; */
     margin-bottom: 1em;
+    overflow: hidden;
 }
 
 @media (max-width: 601px) {

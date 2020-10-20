@@ -37,19 +37,7 @@ const projects = (skills) => {
                     description="Udemy course project used to learn React" />
             </Carousel>
             {/* </div> */}
-            <Arrow Linked="section4" />
-            {/* <div className={classes.Project}>
-                <h2>Cyber Security</h2>
-                <ul>
-                    <li><Project title="MysteryTwister Brute Force Attack on 3DES" src="" alt="" /></li>
-                </ul>
-            </div> */}
-            {/* <div className={classes.Project}>
-                <h2>Intelligent Computing</h2>
-                <ul>
-                    <li><Project title="Adversarial Learning" src="" alt="" /></li>
-                </ul>
-            </div> */}
+            <Arrow Linked="section4" className={classes.DekstopHide} />
         </div >
     );
 }
