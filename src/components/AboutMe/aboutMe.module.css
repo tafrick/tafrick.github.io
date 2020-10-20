@@ -1,0 +1,40 @@
+.AboutWrapper {
+    padding-right: 7.5%;
+    padding-left: 7.5%;
+}
+
+.AboutME {
+    background-color: rgba(45, 55, 72, 1);
+    border-radius: .5em;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2.5%;
+    padding-top: 1%;
+}
+
+.AboutME.grow {
+    transition: all .2s ease-in-out;
+}
+
+.AboutME:hover {
+    transform: scale(1.01);
+}
+
+.AboutME p {
+    font-size: 16px;
+    font-family: Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+}
+
+.AboutME button {
+    background-color: transparent;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: .5em;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.AboutME button:hover {
+    background-color: white;
+    color: black;
+}

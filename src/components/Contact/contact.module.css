@@ -1,0 +1,41 @@
+.ContactWrapper {
+    padding-left: 4em;
+    padding-right: 4em;
+    margin-top: 0;
+}
+
+@media (max-width: 502px) {
+    .ContactWrapper {
+        margin-top: 15em;
+    }
+}
+
+.ContactList {
+    margin: auto;
+    list-style: none;
+    padding: 1em;
+    background-color: rgba(45, 55, 72, 1);
+    border-radius: 1em;
+    margin-bottom: 5em;
+}
+
+.ContactList li {
+    display: inline;
+}
+
+.ContactList li a {
+    padding: 8px 25px;
+}
+
+svg {
+    color: lightblue;
+}
+
+svg.grow {
+    transition: all .2s ease-in-out;
+}
+
+svg:hover {
+    color: white;
+    transform: scale(1.1);
+}

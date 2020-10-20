@@ -1,0 +1,62 @@
+.SkillsWrapper {
+    margin: auto;
+}
+
+.SkillsWrapper h1 {
+    margin-top: 15%;
+    margin-bottom: 5%;
+    color: white;
+}
+
+.SkillList {
+    border: 2px solid black;
+    opacity: .9;
+    padding: 15px;
+    width: 12%;
+    margin: auto 1%;
+    background-color: lightblue;
+    border-radius: 1em;
+    display: inline-block;
+    min-height: 25%;
+    height: 45%;
+    vertical-align: top;
+    min-width: 160px;
+    max-width: 200px;
+    min-height: 300px;
+    max-height: 300px;
+    color: black;
+}
+
+.SkillList.grow {
+    transition: all .2s ease-in-out;
+}
+
+.SkillList:hover {
+    transform: scale(1.1);
+}
+
+.SkillList ul {
+    list-style: none;
+    border: 1px solid black;
+    text-align: left;
+    padding-inline-start: inherit;
+}
+
+.SkillList li {
+    display: block;
+}
+
+.SkillList p {
+    display: table;
+    text-align: left;
+    font-size: .875rem;
+    font-weight: 700;
+    border-bottom: 2px solid maroon;
+    font-family: Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+}
+
+.SkillList p u {
+    border-bottom: 10px solid black;
+}
+
+@media
