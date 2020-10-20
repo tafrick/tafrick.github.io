@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b49b8b41cdd50e842e9ce354b89f956d",
+    "revision": "b3e6e48723ba5c31103b3ffc9cad8002",
     "url": "/tafrick.github.io/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tafrick.github.io/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "31914d05f4f19e43ccd2",
-    "url": "/tafrick.github.io/static/css/main.f058d3fc.chunk.css"
+    "revision": "49ac1ce954e0c6d352ab",
+    "url": "/tafrick.github.io/static/css/main.df9e4822.chunk.css"
   },
   {
     "revision": "836ab19d4afe5a6946f4",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tafrick.github.io/static/js/2.0a77d7c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "31914d05f4f19e43ccd2",
+    "revision": "49ac1ce954e0c6d352ab",
     "url": "/tafrick.github.io/static/js/main.f22856e5.chunk.js"
   },
   {

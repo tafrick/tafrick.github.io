@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tafrick.github.io/static/css/main.f058d3fc.chunk.css",
+    "main.css": "/tafrick.github.io/static/css/main.df9e4822.chunk.css",
     "main.js": "/tafrick.github.io/static/js/main.f22856e5.chunk.js",
     "main.js.map": "/tafrick.github.io/static/js/main.f22856e5.chunk.js.map",
     "runtime-main.js": "/tafrick.github.io/static/js/runtime-main.ce2a7c7f.js",
@@ -9,10 +9,10 @@
     "static/js/2.0a77d7c4.chunk.js": "/tafrick.github.io/static/js/2.0a77d7c4.chunk.js",
     "static/js/2.0a77d7c4.chunk.js.map": "/tafrick.github.io/static/js/2.0a77d7c4.chunk.js.map",
     "index.html": "/tafrick.github.io/index.html",
-    "precache-manifest.f49ee85bf8a768bb606f5901d1928494.js": "/tafrick.github.io/precache-manifest.f49ee85bf8a768bb606f5901d1928494.js",
+    "precache-manifest.8ac47aa3f46b972ae53d242eeffa727e.js": "/tafrick.github.io/precache-manifest.8ac47aa3f46b972ae53d242eeffa727e.js",
     "service-worker.js": "/tafrick.github.io/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/tafrick.github.io/static/css/2.fb346933.chunk.css.map",
-    "static/css/main.f058d3fc.chunk.css.map": "/tafrick.github.io/static/css/main.f058d3fc.chunk.css.map",
+    "static/css/main.df9e4822.chunk.css.map": "/tafrick.github.io/static/css/main.df9e4822.chunk.css.map",
     "static/js/2.0a77d7c4.chunk.js.LICENSE.txt": "/tafrick.github.io/static/js/2.0a77d7c4.chunk.js.LICENSE.txt",
     "static/media/Resume (2).pdf": "/tafrick.github.io/static/media/Resume (2).fc9dc010.pdf",
     "static/media/Screen Shot 2020-10-19 at 5.18.23 PM.png": "/tafrick.github.io/static/media/Screen Shot 2020-10-19 at 5.18.23 PM.31d89501.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.ce2a7c7f.js",
     "static/css/2.fb346933.chunk.css",
     "static/js/2.0a77d7c4.chunk.js",
-    "static/css/main.f058d3fc.chunk.css",
+    "static/css/main.df9e4822.chunk.css",
     "static/js/main.f22856e5.chunk.js"
   ]
 }
