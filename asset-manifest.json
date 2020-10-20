@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/tafrick.github.io/static/css/main.047f7272.chunk.css",
-    "main.js": "/tafrick.github.io/static/js/main.a8a3554f.chunk.js",
-    "main.js.map": "/tafrick.github.io/static/js/main.a8a3554f.chunk.js.map",
+    "main.css": "/tafrick.github.io/static/css/main.4ca597e9.chunk.css",
+    "main.js": "/tafrick.github.io/static/js/main.e0944ba1.chunk.js",
+    "main.js.map": "/tafrick.github.io/static/js/main.e0944ba1.chunk.js.map",
     "runtime-main.js": "/tafrick.github.io/static/js/runtime-main.ce2a7c7f.js",
     "runtime-main.js.map": "/tafrick.github.io/static/js/runtime-main.ce2a7c7f.js.map",
     "static/css/2.fb346933.chunk.css": "/tafrick.github.io/static/css/2.fb346933.chunk.css",
-    "static/js/2.d72fb1d6.chunk.js": "/tafrick.github.io/static/js/2.d72fb1d6.chunk.js",
-    "static/js/2.d72fb1d6.chunk.js.map": "/tafrick.github.io/static/js/2.d72fb1d6.chunk.js.map",
+    "static/js/2.0d9b69a1.chunk.js": "/tafrick.github.io/static/js/2.0d9b69a1.chunk.js",
+    "static/js/2.0d9b69a1.chunk.js.map": "/tafrick.github.io/static/js/2.0d9b69a1.chunk.js.map",
     "index.html": "/tafrick.github.io/index.html",
-    "precache-manifest.ea6c66181bb88bbbcace372861727bbc.js": "/tafrick.github.io/precache-manifest.ea6c66181bb88bbbcace372861727bbc.js",
+    "precache-manifest.d867bcda278ca90e889cb2321914fdb2.js": "/tafrick.github.io/precache-manifest.d867bcda278ca90e889cb2321914fdb2.js",
     "service-worker.js": "/tafrick.github.io/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/tafrick.github.io/static/css/2.fb346933.chunk.css.map",
-    "static/css/main.047f7272.chunk.css.map": "/tafrick.github.io/static/css/main.047f7272.chunk.css.map",
-    "static/js/2.d72fb1d6.chunk.js.LICENSE.txt": "/tafrick.github.io/static/js/2.d72fb1d6.chunk.js.LICENSE.txt",
+    "static/css/main.4ca597e9.chunk.css.map": "/tafrick.github.io/static/css/main.4ca597e9.chunk.css.map",
+    "static/js/2.0d9b69a1.chunk.js.LICENSE.txt": "/tafrick.github.io/static/js/2.0d9b69a1.chunk.js.LICENSE.txt",
     "static/media/Resume (2).pdf": "/tafrick.github.io/static/media/Resume (2).fc9dc010.pdf",
     "static/media/Screen Shot 2020-10-19 at 5.18.23 PM.png": "/tafrick.github.io/static/media/Screen Shot 2020-10-19 at 5.18.23 PM.31d89501.png",
     "static/media/Screen Shot 2020-10-19 at 7.26.10 PM.png": "/tafrick.github.io/static/media/Screen Shot 2020-10-19 at 7.26.10 PM.7c9932f9.png",
-    "static/media/App.css": "/tafrick.github.io/static/media/purty_wood.350ab537.png",
+    "static/media/purty_wood.png": "/tafrick.github.io/static/media/purty_wood.350ab537.png",
+    "static/media/purty_wood_@2X.png": "/tafrick.github.io/static/media/purty_wood_@2X.8ed5781b.png",
     "static/media/sjsu_logo.png": "/tafrick.github.io/static/media/sjsu_logo.d7303f35.png",
     "static/media/ucsc_logo.png": "/tafrick.github.io/static/media/ucsc_logo.75edce1c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ce2a7c7f.js",
     "static/css/2.fb346933.chunk.css",
-    "static/js/2.d72fb1d6.chunk.js",
-    "static/css/main.047f7272.chunk.css",
-    "static/js/main.a8a3554f.chunk.js"
+    "static/js/2.0d9b69a1.chunk.js",
+    "static/css/main.4ca597e9.chunk.css",
+    "static/js/main.e0944ba1.chunk.js"
   ]
 }
