@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tafrick.github.io/static/css/main.047f7272.chunk.css",
-    "main.js": "/tafrick.github.io/static/js/main.d7196780.chunk.js",
-    "main.js.map": "/tafrick.github.io/static/js/main.d7196780.chunk.js.map",
+    "main.js": "/tafrick.github.io/static/js/main.a8a3554f.chunk.js",
+    "main.js.map": "/tafrick.github.io/static/js/main.a8a3554f.chunk.js.map",
     "runtime-main.js": "/tafrick.github.io/static/js/runtime-main.ce2a7c7f.js",
     "runtime-main.js.map": "/tafrick.github.io/static/js/runtime-main.ce2a7c7f.js.map",
     "static/css/2.fb346933.chunk.css": "/tafrick.github.io/static/css/2.fb346933.chunk.css",
     "static/js/2.d72fb1d6.chunk.js": "/tafrick.github.io/static/js/2.d72fb1d6.chunk.js",
     "static/js/2.d72fb1d6.chunk.js.map": "/tafrick.github.io/static/js/2.d72fb1d6.chunk.js.map",
     "index.html": "/tafrick.github.io/index.html",
-    "precache-manifest.56cb06bfab166e7c44f61c7bca739cd9.js": "/tafrick.github.io/precache-manifest.56cb06bfab166e7c44f61c7bca739cd9.js",
+    "precache-manifest.ea6c66181bb88bbbcace372861727bbc.js": "/tafrick.github.io/precache-manifest.ea6c66181bb88bbbcace372861727bbc.js",
     "service-worker.js": "/tafrick.github.io/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/tafrick.github.io/static/css/2.fb346933.chunk.css.map",
     "static/css/main.047f7272.chunk.css.map": "/tafrick.github.io/static/css/main.047f7272.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.fb346933.chunk.css",
     "static/js/2.d72fb1d6.chunk.js",
     "static/css/main.047f7272.chunk.css",
-    "static/js/main.d7196780.chunk.js"
+    "static/js/main.a8a3554f.chunk.js"
   ]
 }
